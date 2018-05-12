@@ -1,0 +1,32 @@
+_repo: A-Grammar-of-Freethought_36882
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36882-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cohen, Chapman
+    birthdate: 1868
+    gutenberg_agent_id: '31219'
+    url: http://www.gutenberg.org/2009/agents/31219
+description: ''
+gutenberg_issued: '2011-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36882'
+  lccn: '89184106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought'
+tableOfContents: Outgrowing the gods -- Life and mind -- What is Freethought? -- Rebellion
+  and reform -- The struggle for the child -- The nature of religion -- The utility
+  of religion -- Freethought and God -- Freethought and death -- This world and the
+  next -- Evolution -- Darwinism and design -- Ancient and modern -- Morality without
+  God -- Christianity and morality -- Religion and persecution -- What is to follow
+  religion?
+title: A Grammar of Freethought
+url: http://www.gutenberg.org/ebooks/36882
